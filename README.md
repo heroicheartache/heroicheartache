@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**heroicheartache/heroicheartache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](./header.png)
 
-Here are some ideas to get you started:
+<h1 align="center">heroicheartache</h1>
+<p align="center">Software engineer who loves working on super random <a href="https://github.com/heroicheartache?tab=repositories">projects</a>.</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=heroicheartache&style=for-the-badge&color=blueviolet" alt="Profile Views">
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1471313815852290158?showDisplayName=true&idleMessage=%3E%2C%3C%20&hideSpotify=true&theme=dark" />
+  <br />
+  <br />
+</p>
+
+![Footer](./footer.png)
+<!-- 
+  thanks 7ud for this readme
+  https://github.com/7ud
 -->
+
