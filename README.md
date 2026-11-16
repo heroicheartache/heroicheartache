@@ -2,7 +2,7 @@
 ![Header](./header.png)
 
 <h1 align="center">heroicheartache</h1>
-<p align="center">Software engineer who loves working on super random <a href="https://github.com/heroicheartache?tab=repositories">projects</a>.</p>
+<p align="center">my <a href="https://github.com/heroicheartache?tab=repositories">projects</a>.</p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=heroicheartache&style=for-the-badge&color=blueviolet" alt="Profile Views">
   </p>
